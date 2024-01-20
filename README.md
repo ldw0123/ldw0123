@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 🏅 Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ldw0123&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000)](https://github.com/ldw0123/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ldw0123&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000)](https://github.com/ldw0123/) &nbsp;
 <a href="https://git.io/streak-stats">
 <img style="height: 165px;" src="https://streak-stats.demolab.com?user=ldw0123" alt="GitHub Streak" />
 </a>
